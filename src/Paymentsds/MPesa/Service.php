@@ -291,6 +291,7 @@ class Service
             'INS-2001'  => ErrorType::INITIATOR_AUTH_ERROR,
             'INS-2002'  => ErrorType::RECEIVER_INVALID,
             'INS-2006'  => ErrorType::INSUFICIENT_BALANCE,
+            'INS-2008'  => ErrorType::PRIMARY_PARTY_INVALID,
             'INS-2051'  => ErrorType::INVALID_MSISDN,
             'INS-2057'  => ErrorType::LANGUAGE_CODE_INVALID,
         ];
